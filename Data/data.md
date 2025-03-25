@@ -1,14 +1,17 @@
-## This folder contains raw data used for visualization. 
+## Above given Csv file has below columns 
 
 
 ####   📚 List of Columns
 * Title  
-* Genre  
-* Show Type  
-* IMDB Score  
-* Show Duration  
-* Release Year  
-* Total Awards  
-* Total Shows  
-* Total Movies  
-* Total Series 
+* Genre
+* Languages
+* Series or Movie
+* Country Availability
+* Runtime
+* IMDB Score
+* Awards Received
+* Awards Nominated For
+* Boxoffice
+* Release Date
+* Release Year
+* IMDb Votes
